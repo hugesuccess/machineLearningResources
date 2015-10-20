@@ -37,6 +37,10 @@ The start of the Udacity video on machine learning is epic!
 * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 * [Machine Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)
 * [Machine Learning 001](https://class.coursera.org/machlearning-001/lecture)
-* [Machine Learning: Supervised Learning](https://www.udacity.com/course/machine-learning-supervised-learning--ud675)
 * [Big Data, Large Scale Machine Learning](http://techtalks.tv/nyu/nyu-course-on-large-scale-machine-learning/)
+
+### Neural Networks
+* [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M)
+* [Machine Learning: Supervised Learning](https://www.udacity.com/course/machine-learning-supervised-learning--ud675)
+* [Machine Learning: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 
