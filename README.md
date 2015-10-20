@@ -3,10 +3,12 @@
 
 A collection of Free, online resources on mathmatics, statistics, and machine learnnig to
 to take you from novice to ninja. Starts with basic probability and works it's way up to 
-advanced statistical analysis courses.
+advanced Machine Learning and Artificial Intellegence courses. Introductory courses will 
+provide a strong background in the underlying mathmatics, advanced courses will expand
+on these concepts and show thier practical application in modern machine learning.
 
-Chosen because they are self pased, online videos so I can go at my own pace. Designed to take
-6 - 12 months to complete all of the courses.
+Online videos so you can go at your own pace. Designed to take
+3 - 6 months to complete all of the courses.
 
 Left here as an open source reminder/checklist for myself.
 
