@@ -23,7 +23,7 @@ The start of the Udacity video on machine learning is epic!
 
 
 ### Statistics
-* [Intro to Statistics](loadin://www.udacity.com/course/viewer#!/c-st101/l-48738235/m-48688822)
+* [Intro to Statistics](http://www.udacity.com/course/viewer#!/c-st101/l-48738235/m-48688822)
 * [Statistics One](https://www.coursera.org/course/stats1/?action=watchlist)
 * [Statistics](https://www.udacity.com/course/viewer#!/c-st095/l-212304785/m-212564628)
 * [Probability & Statistics](http://oli.cmu.edu/courses/free-open/statistics-course-details/)
