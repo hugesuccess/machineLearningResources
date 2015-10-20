@@ -14,6 +14,7 @@ Left here as an open source reminder/checklist for myself.
 
 The start of the Udacity video on machine learning is epic!
 
+---
 
 ### Introductory
 * [Probability and statistics](https://www.khanacademy.org/math/probability)
